@@ -2610,7 +2610,7 @@ msgstr "небо затянуто тучами и дует безжалостн�
 msgid "dry brush and dead branches litter the forest floor"
 msgstr "сухие кисти и мертвые ветки падают на лесную почву"
 
-#: ../../script/outside.js:621
+#: ../../script/outside.js:637
 msgid "the traps contain "
 msgstr "ловушки содержат "
 
