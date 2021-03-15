@@ -2614,7 +2614,7 @@ msgstr "сухие кисти и мертвые ветки падают на л�
 msgid "the traps contain "
 msgstr "ловушки содержат "
 
-#: ../../script/path.js:29 ../../script/path.js:298
+#: ../../script/path.js:28 ../../script/path.js:298
 msgid "A Dusty Path"
 msgstr "Пыльный путь"
 
